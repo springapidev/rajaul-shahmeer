@@ -1,0 +1,14 @@
+@media (max-width: 28.75em) {
+    .nav {
+      justify-content: center;
+    }
+  
+    .nav-list {
+      margin: 0 1rem;
+    }
+  
+  }
+  #navbar{
+    position:fixed;
+    top:0;
+  }
